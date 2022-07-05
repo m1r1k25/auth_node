@@ -1,2 +1,1 @@
-# auth-
-training project
+# auth-node

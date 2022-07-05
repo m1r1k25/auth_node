@@ -1,6 +1,6 @@
 import express from "express";
 import mongoose from "mongoose"; 
-import { authRouter } from "./authRouter.js";
+import authRouter from "./authRouter.js";
 
 const PORT = process.env.PORT || 5000
 
